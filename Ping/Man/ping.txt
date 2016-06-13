@@ -1,0 +1,18 @@
+NOM
+    !ping - Ping le robot
+    
+SYNOPSIS
+    !ping
+    
+DESCRIPTION
+    Envoie un ping au robot qui vous répond pong si vous avez un niveau de compte suffisant.
+
+NIVEAU REQUIS
+    1 - Membre
+    
+EXEMPLES
+    14:00 [{invoker.name}]: ping
+    14:00 [{bot.name}]: pong
+    
+AUTEUR
+    Gecko <gecko@dvp.io>
