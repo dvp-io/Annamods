@@ -11,8 +11,8 @@ NIVEAU REQUIS
     3 - Modérateur
     
 EXEMPLES
-    14:00 [{invoker.name}]: ping
-    14:00 [{bot.name}]: pong
+    14:00 [{invoker.name}]: !pong
+    14:00 [{bot.name}]: ping!
     
 AUTEUR
     Gecko <gecko@dvp.io>

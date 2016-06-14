@@ -39,6 +39,6 @@ class Main {
   }
 
   public static function getVersion() {
-    return static::$botversion;
+    return static::$botVersion;
   }
 }

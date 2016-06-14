@@ -11,8 +11,8 @@ NIVEAU REQUIS
     1 - Membre
     
 EXEMPLES
-    14:00 [{invoker.name}]: ping
-    14:00 [{bot.name}]: pong
+    14:00 [{invoker.name}]: !ping
+    14:00 [{bot.name}]: pong!
     
 AUTEUR
     Gecko <gecko@dvp.io>
